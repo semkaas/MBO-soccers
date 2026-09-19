@@ -13,7 +13,7 @@
     <script src="javascript/script.js" defer></script>
 </head>
 <body>
-    <h1> welkom bij MBO soccers </h1>
-    <a class="confirm" href="aankondigingen.php">doorgaan</a>
+    <h1>welkom bij mbosoccers<h1>
+        <a class="confirm" href="aankondigingen.php">doorgaan</a>
 </body>
 </html>
