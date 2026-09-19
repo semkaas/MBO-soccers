@@ -1,3 +1,3 @@
 <section class = "header">
-    <p> 1 </p>
+    <p> header </p>
 </section>

@@ -1,3 +1,3 @@
-<section class = "voeter">
-    <p> 5 </p>
+<section class = "footer">
+    <p> footer </p>
 </section>
