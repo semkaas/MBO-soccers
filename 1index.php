@@ -13,16 +13,7 @@
     <script src="javascript/script.js" defer></script>
 </head>
 <body>
-    <?php include 'includes/header.php';?>
-    <section class = "aankondigingen">
-<p> 2 </p>
-    </section>
-    <section class = "nieuws-tekst">
-<p> 3 </p>
-    </section>
-    <section class = "nieuws-vlak">
-<p> 4 </p>
-    </section>
-    <?php include 'includes/footer.php';?>
+    <h1>welkom bij mbosoccers<h1>
+        <a class="confirm" href="aankondiging.php">doorgaan</a>
 </body>
 </html>
