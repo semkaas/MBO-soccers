@@ -15,6 +15,7 @@
 <body>
     <?php include 'includes/header.php';?>
     <h1> yo </h1>
+    <a src="profiel.php">profiel</a>
     <?php include 'includes/footer.php';?>
 </body>
 </html>
