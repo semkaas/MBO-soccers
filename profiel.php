@@ -28,8 +28,7 @@
             $pass = $_POST['password'];
 
             if (!empty($user) && !empty($pass)) {
-                $wachtwoord = password_hash($pass, PASSWORD_DEFAULT);
-
+                // $wachtwoord = password_hash($pass, PASSWORD_DEFAULT);
                 $sql = "INSERT INTO gebruikers (username, password) VALUES (:username, :password)";
                 $stmt = $pdo->prepare($sql);
                 $stmt->execute([
