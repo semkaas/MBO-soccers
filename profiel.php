@@ -15,7 +15,7 @@
 <body>
 <?php
     $host = "localhost";
-    $dbname = "phples";
+    $dbname = "mbosoccers2";
     $username = "root";
     $password = "";
 
