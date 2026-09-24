@@ -29,14 +29,15 @@
 
             if (!empty($user) && !empty($pass)) {
                 // $wachtwoord = password_hash($pass, PASSWORD_DEFAULT);
+
                 $sql = "INSERT INTO gebruikers (username, password) VALUES (:username, :password)";
                 $stmt = $pdo->prepare($sql);
                 $stmt->execute([
                     'username' => $user,
-                    'password' => $wachtwoord
+                    'password' => $pass
                 ]);
 
-                echo "kaas";
+                header("Location: aankondigingen.php");
             } else {
                 echo "Vul alle velden in. <br> <br>";
             }
