@@ -1,6 +1,7 @@
 <section class = "header">
+    <img class = "logonav" src="img/logo.png">
     <article class = "hamburger" onclick="toggleMenu()">
-            <h1>aaaayy</h1>
+            <img class = "hamfoto" src="img/hamburger.png">
         </article>
     </section>  
 <nav id="dropdown-menu" class="menu-hidden">
