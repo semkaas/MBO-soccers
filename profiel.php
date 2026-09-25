@@ -16,7 +16,7 @@
 <?php include 'includes/header.php';?>
 <?php
     $host = "localhost";
-    $dbname = "mbosoccers2";
+    $dbname = "mbosoccers3";
     $username = "root";
     $password = "";
 
