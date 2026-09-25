@@ -7,10 +7,10 @@
 <nav id="dropdown-menu" class="menu-hidden">
         <ul class="hamburgermenu">
             <li><a href="index.php">Home</a></li>
-            <li><a href="lunchdiner.php">lunch en dinner</a></li>
-            <li><a href="navigatie.php">locatie</a></li>
-            <li><a href="reseveren.php">reseveren</a></li>
-            <li><a href="vacatures.php">bij ons werken</a></li>
+            <li><a href="aankondigingen.php">aankondigingen</a></li>
+            <li><a href="trainingschema.php">trainingschema</a></li>
+            <li><a href="wedstrijden.php">wedstrijden</a></li>
+            <li><a href="profiel.php">profiel</a></li>
         </ul>
     
 </nav>

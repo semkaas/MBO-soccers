@@ -13,6 +13,7 @@
     <script src="javascript/script.js" defer></script>
 </head>
 <body>
+<?php include 'includes/header.php';?>
 <?php
     $host = "localhost";
     $dbname = "mbosoccers2";
