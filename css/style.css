@@ -8,6 +8,28 @@ padding: 0;
 .header{
     background-color: gray;
 }
+
+body {
+    background-color: rgb(185, 180, 180);
+}
+
+.TS {
+    justify-items: center;
+
+   
+}
+
+.Trainingsschema {
+    border: 5px solid rgb(216, 205, 205);
+    border-radius: 10px;
+    justify-content: center;
+    display: flex;
+    margin: 0px;
+    padding: 20px;
+}
+
+
+
 #dropdown-menu {
     background-color: var(--bgColor);
     overflow: hidden;

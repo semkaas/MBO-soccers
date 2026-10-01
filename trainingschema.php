@@ -13,3 +13,9 @@
     <script src="javascript/script.js" defer></script>
 </head>
 <?php include 'includes/header.php';?>
+
+<h1 class="TS">Trainings Schema</h1>
+
+<article class="Trainingsschema">
+    <h2>Training schema</h2>
+</article>
