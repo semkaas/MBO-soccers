@@ -28,6 +28,10 @@ body {
     padding: 20px;
 }
 
+.Trainingsschema > p {
+    justify-content: center;
+    display: flex;
+}
 
 
 #dropdown-menu {

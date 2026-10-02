@@ -18,4 +18,9 @@
 
 <article class="Trainingsschema">
     <h2>Training schema</h2>
+    <p>6 Oktober Training</p>
+    <p>13 Oktober Training</p>
+    <p>20 Oktober Training</p>
+    
+    
 </article>
